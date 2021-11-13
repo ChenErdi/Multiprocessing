@@ -17,16 +17,16 @@ Data visualization task: To develop Web applications based on Dash and DashBio f
 
 
 ## Visualization: Web application Layout
-![Web application Layout](https://github.com/ChenErdi/Multiprocessing/blob/master/imgs/Layout.jpg =100x100)
-
+![Web application Layout](https://github.com/ChenErdi/Multiprocessing/blob/master/imgs/Layout.jpg)
+---
 ---
 
 ![Drop-down](https://github.com/ChenErdi/Multiprocessing/blob/master/imgs/drop-down_heatmap.jpg)
-
+---
 ---
 
 ![Sliders](https://github.com/ChenErdi/Multiprocessing/blob/master/imgs/Sliders.jpg)
-
+---
 ---
 
 ## Multiprocessing
@@ -34,6 +34,7 @@ In this multiprocessing scenario, a total of **N** processes are used, with one 
 In practice, **N** is set to 10 and 16 (the number of processes is set according to the actual hardware).
 
 ![Cores number: **N=10**](https://github.com/ChenErdi/Multiprocessing/blob/master/core.png)
-
+---
 ---
 ![Multiprocessing start: **N=10**](https://github.com/ChenErdi/Multiprocessing/blob/master/process_start.png)
+---
