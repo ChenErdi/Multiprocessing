@@ -17,7 +17,7 @@ Data visualization task: To develop Web applications based on Dash and DashBio f
 
 
 ## Visualization: Web application Layout
-![Web application Layout](https://github.com/ChenErdi/Multiprocessing/blob/master/imgs/Layout.jpg)
+![Web application Layout](https://github.com/ChenErdi/Multiprocessing/blob/master/imgs/Layout.jpg =100x100)
 
 ---
 
